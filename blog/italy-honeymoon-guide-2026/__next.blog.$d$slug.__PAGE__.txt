@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
+8:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T2a29,
+
+<p class="text-sm italic text-charcoal/50 mb-6">By Marco Nigro, Founder of Volta Travel | March 15, 2026 | 12 min read</p>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Italy is the world's most popular honeymoon destination for a reason. Actually, for about a hundred reasons — the food, the romance, the beauty, the history, the wine, the coastlines, the hilltop villages, the sunsets that look like paintings.</p>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">After planning over 200 bespoke trips to Italy (many of them honeymoons), here's everything you need to know to plan the perfect Italian honeymoon in 2026.</p>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">When to Go</h2>
+
+<strong class="font-medium text-charcoal">Best months:</strong> September and October. Full stop.
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">The weather is warm but not brutal (25-28°C). The summer crowds have thinned dramatically. Hotel prices drop 20-30% from peak. The light is golden. The wine harvest is happening. The sea is still warm enough to swim.</p>
+
+<strong class="font-medium text-charcoal">Second best:</strong> May and June. Beautiful weather, longer days, spring flowers. June gets busier and more expensive.
+
+<strong class="font-medium text-charcoal">Avoid:</strong> July-August unless you love heat (35°C+), crowds, and premium prices. December-February is cold and many coastal hotels close.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">How Long</h2>
+
+<strong class="font-medium text-charcoal">Minimum:</strong> 7 nights. Enough for two destinations (Rome + Amalfi Coast, or Florence + Cinque Terre).
+
+<strong class="font-medium text-charcoal">Ideal:</strong> 10-12 nights. Three destinations at a relaxed pace. No rushing.
+
+<strong class="font-medium text-charcoal">Luxury:</strong> 14+ nights. Take your time. Linger. That's what honeymoons are for.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">The Classic Honeymoon Route: Rome + Amalfi Coast (7 Nights)</h2>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">This is our most popular honeymoon itinerary for a reason — it perfectly balances culture, romance, food, and relaxation.</p>
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">Rome (3 Nights)</h3>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 1:</strong> Arrive, settle into a boutique hotel in Monti or Trastevere. Evening passeggiata (stroll) ending at a rooftop bar with Colosseum views</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 2:</strong> Private morning tour of the Colosseum (before the crowds). Afternoon exploring the cobblestone streets. Sunset aperitivo at a terrazza</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 3:</strong> Vatican morning (early entry is essential). Afternoon shopping or gelato crawl. Farewell dinner at a candlelit trattoria in the Jewish Ghetto</li>
+
+<strong class="font-medium text-charcoal">Budget:</strong> $600-1,200 per night for a boutique hotel in the center
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">Transfer Day</h3>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">High-speed train Rome → Naples (1h10), then private car to the coast. Total travel time: ~3 hours. Scenic, easy, romantic.</p>
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">Amalfi Coast (4 Nights)</h3>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 4:</strong> Arrive, check into a sea-view room. Afternoon swim and first aperitivo watching the sunset</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 5:</strong> Private boat tour along the coast — just the two of you, swimming in hidden coves, lunch on board</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 6:</strong> Day trip to Ravello — Villa Rufolo gardens, lunch with a view, spa treatment in the afternoon</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Day 7:</strong> Morning cooking class in a lemon grove. Afternoon at the beach. Final romantic dinner</li>
+
+<strong class="font-medium text-charcoal">Budget:</strong> $400-1,000 per night for a sea-view room
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">Total Budget Range</h3>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Mid-luxury:</strong> $4,500-6,000 per person (boutique hotels, private experiences)</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">High-luxury:</strong> $8,000-12,000 per person (5-star hotels, exclusive experiences)</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Ultra-luxury:</strong> $15,000+ per person (private villas, helicopter transfers, Michelin dinners)</li>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">Alternative Routes</h2>
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">For Foodies: Tuscany + Amalfi Coast (10 Nights)</h3>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Florence (2N) → Chianti countryside (3N) → Amalfi Coast (5N)</p>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Cooking classes, wine tastings, truffle hunts, farm-to-table dinners.</p>
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">For Adventurers: Sardinia + Sicily (12 Nights)</h3>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Sardinia (5N) → Sicily (7N)</p>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Beaches, volcanoes, ancient ruins, island hopping, off-the-beaten-path romance.</p>
+
+<h3 class="mt-8 mb-3 font-serif text-xl text-charcoal">For Culture Lovers: Venice + Lake Como + Rome (10 Nights)</h3>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Venice (3N) → Lake Como (3N) → Rome (4N)</p>
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">Gondolas, lakeside villas, ancient history, art galleries.</p>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">10 Most Romantic Experiences in Italy</h2>
+
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Private sunset boat tour on the Amalfi Coast</strong> — Just the two of you, prosecco, the golden hour light</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Rooftop dinner overlooking the Colosseum</strong> — Rome at its most magical</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Wine tasting in a private cellar in Montepulciano</strong> — Centuries-old barrels, candlelight, noble wines</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Hot air balloon over Tuscany at dawn</strong> — Chianti hills from above</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Cooking class in a Ravello lemon grove</strong> — Make pasta together, eat what you create</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Gondola ride in Venice at dusk</strong> — Yes, it's a cliché. It's also genuinely romantic</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Spa day at a thermal spring</strong> — Natural hot springs in Saturnia (Tuscany) or Ischia</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Truffle hunting in Umbria</strong> — Follow a dog through ancient forests, then eat your finds</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Stargazing dinner in the Langhe</strong> — Zero light pollution, Barolo wine, Michelin food</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Sunrise at the Cinque Terre</strong> — Hike the path between villages before anyone else wakes up</li>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">Common Honeymoon Mistakes</h2>
+
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Packing too many cities into too few days.</strong> You're on your honeymoon, not a race. Two destinations in 7 nights. Three max in 10.</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Booking hotels only for the name.</strong> A 5-star chain hotel is never as romantic as a boutique property with character and a view.</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Not hiring a local for at least one day.</strong> A private guide transforms a good experience into an unforgettable one.</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Ignoring logistics.</strong> The Amalfi Coast road is not romantic in a bus. Private transfers change everything.</li>
+<li class="text-sm text-charcoal/70 py-1 pl-4 border-l-2 border-warm/20"><strong class="font-medium text-charcoal">Planning every minute.</strong> Leave room for serendipity. Some of the best honeymoon moments are unplanned.</li>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">---</p>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">Let Volta Design Your Honeymoon</h2>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">We specialize in crafting bespoke Italian honeymoons. Every detail handled — from the perfect hotel room to the surprise romantic dinner your partner doesn't know about.</p>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">AI-designed for optimal logistics. Expert-perfected for genuine magic.</p>
+
+<strong class="font-medium text-charcoal">Get a free custom honeymoon proposal in 24 hours →</strong> <a href="https://volta.travel/#contact" class="text-warm-dark underline underline-offset-2 hover:text-charcoal transition-colors">volta.travel</a>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-cream","children":[["$","nav",null,{"className":"fixed top-0 z-50 w-full bg-cream/80 backdrop-blur-md border-b border-warm/10","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6 py-4","children":[["$","$L2",null,{"href":"/","className":"font-serif text-2xl tracking-wide text-charcoal","children":"Volta"}],["$","$L2",null,{"href":"/blog","className":"text-sm text-charcoal/70 hover:text-charcoal transition-colors","children":"← Back to Journal"}]]}]}],["$","article",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-24","children":[["$","div",null,{"className":"mb-8 flex flex-wrap items-center gap-3 text-xs text-charcoal/40","children":[["$","span",null,{"className":"rounded-full bg-warm/10 px-3 py-1 font-medium text-warm-dark","children":"Planning"}],["$","span",null,{"children":"2026-03-15"}],["$","span",null,{"children":["12 min"," read"]}]]}],["$","h1",null,{"className":"font-serif text-4xl leading-tight tracking-tight text-charcoal md:text-5xl","children":"The Complete Italy Honeymoon Guide for 2026"}],["$","div",null,{"className":"mt-10 prose-volta","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mgANmPVxDEOAABLgPbZzt"}
+4:["$","div",null,{"className":"mt-16 rounded-2xl border border-warm/20 bg-warm/5 p-8 text-center","children":[["$","h3",null,{"className":"font-serif text-xl text-charcoal","children":"Ready to experience Italy?"}],["$","p",null,{"className":"mt-2 text-sm text-charcoal/60","children":"Get a free personalized itinerary in 24 hours."}],["$","$L2",null,{"href":"/#contact","className":"mt-4 inline-flex rounded-full bg-charcoal px-8 py-3 text-sm font-medium text-cream hover:bg-navy transition-colors","children":"Get Your Free Itinerary"}]]}]
+5:["$","footer",null,{"className":"border-t border-warm/15 bg-charcoal py-12 text-cream","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6","children":[["$","p",null,{"className":"font-serif text-xl","children":"Volta"}],["$","p",null,{"className":"text-xs text-cream/30","children":["© ",2026," Volta Travel"]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

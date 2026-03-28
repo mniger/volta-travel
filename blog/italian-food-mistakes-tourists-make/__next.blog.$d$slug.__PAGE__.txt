@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
+8:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T197a,
+
+<p class="text-sm italic text-charcoal/50 mb-6">By Marco Nigro, Founder of Volta Travel | March 10, 2026 | 5 min read</p>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">After 200+ trips to Italy, I've seen every food crime a tourist can commit. Here are the 7 most common mistakes — and what to do instead.</p>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">1. Ordering Cappuccino After 11am</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Ordering a cappuccino at lunch, after dinner, or really any time after mid-morning.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> Italians consider milk-based coffee drinks a morning thing. Ordering cappuccino after a meal will mark you as a tourist and genuinely confuse your waiter.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> After 11am, order "un caffè" (espresso), "caffè macchiato" (espresso with a splash of milk), or "caffè lungo" (longer espresso). After dinner, "un caffè" is the only correct answer.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">2. Looking for "Fettuccine Alfredo"</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Searching restaurant menus for Alfredo sauce, chicken parmesan, spaghetti and meatballs, or garlic bread.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> These dishes were invented by Italian-Americans. They don't exist in Italy. Asking for them is like asking a Japanese restaurant in Tokyo for a California roll.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Order what's actually on the menu. Ask the waiter "Cosa mi consiglia?" (What do you recommend?). Try regional specialties: cacio e pepe in Rome, trofie al pesto in Liguria, orecchiette in Puglia.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">3. Eating Near Tourist Attractions</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Having lunch at the restaurant directly facing the Colosseum, the Duomo, or Piazza San Marco.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> These restaurants pay enormous rent for their location. They make money from volume, not quality. The food is mediocre, the prices are inflated, and they know you'll never come back.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Walk 3-5 blocks away from any major attraction. Look for places where Italians are eating. Handwritten menus (not laminated with photos) are always a good sign. If there's a nonna visible in the kitchen, sit down immediately.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">4. Putting Parmesan on Seafood Pasta</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Asking for Parmigiano on your spaghetti alle vongole, linguine ai frutti di mare, or any seafood dish.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> In Italian cuisine, cheese and seafood don't mix. This is a deeply held culinary principle. Asking for parmesan on fish pasta will physically pain your waiter.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Seafood pasta is perfect as served. If you want cheese on pasta, order a meat or vegetable-based sauce.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">5. Not Understanding "Coperto"</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Seeing a €2-3 "coperto" (cover charge) on your bill and thinking you've been scammed.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> Coperto is a legitimate, legal charge that covers bread, table setting, and service. It's printed on every menu (by law). It is NOT a tip — it's a fixed per-person charge.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Expect coperto (€1.50-3.00 per person), accept it gracefully, and don't tip on top of it unless the service was exceptional. If "servizio incluso" appears on the bill, tip is already included.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">6. Eating Dinner at 6pm</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Showing up at a restaurant at 6pm expecting to eat dinner.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> Most Italian restaurants don't open for dinner until 7:30pm at the earliest. Romans eat at 8:30-9:00pm. Showing up at 6pm means you'll eat alone in an empty restaurant — if it's even open.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Have an aperitivo (drinks + snacks) at 7pm. Sit down for dinner at 8:00-8:30pm (earlier in the north, later in the south). This also means your lunch should be later — 1:00-2:00pm is normal.
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">7. Rushing Through Meals</h2>
+
+<strong class="font-medium text-charcoal">The mistake:</strong> Eating quickly, asking for the check immediately, and treating the meal as fuel rather than an experience.
+
+<strong class="font-medium text-charcoal">Why it matters:</strong> In Italy, a meal is a social event. The waiter will NEVER bring the check until you ask for it — because it's considered rude to rush you out. An Italian lunch lasts 1-2 hours. Dinner can be 2-3 hours.
+
+<strong class="font-medium text-charcoal">Do this instead:</strong> Slow down. Order antipasto, then primo (pasta), then secondo (meat/fish), then dolce (dessert), then caffè. You don't have to order everything, but take your time with whatever you choose. When ready, say "Il conto, per favore" (the check, please).
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">---</p>
+
+<h2 class="mt-10 mb-4 font-serif text-2xl text-charcoal">The Secret: Eat Where Italians Eat</h2>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">The single best food advice for Italy: look at who's eating in the restaurant. If it's all tourists, leave. If it's Italians arguing passionately over their pasta, sit down.</p>
+
+<p class="text-sm leading-relaxed text-charcoal/70 mb-4">At Volta, we include curated restaurant lists with every itinerary — the places we personally eat when we're in Italy. Not the TripAdvisor top 10. The REAL places.</p>
+
+<strong class="font-medium text-charcoal">Want our insider restaurant picks for your next trip?</strong> <a href="https://volta.travel/#contact" class="text-warm-dark underline underline-offset-2 hover:text-charcoal transition-colors">Get a free custom itinerary →</a>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-cream","children":[["$","nav",null,{"className":"fixed top-0 z-50 w-full bg-cream/80 backdrop-blur-md border-b border-warm/10","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6 py-4","children":[["$","$L2",null,{"href":"/","className":"font-serif text-2xl tracking-wide text-charcoal","children":"Volta"}],["$","$L2",null,{"href":"/blog","className":"text-sm text-charcoal/70 hover:text-charcoal transition-colors","children":"← Back to Journal"}]]}]}],["$","article",null,{"className":"mx-auto max-w-3xl px-6 pt-32 pb-24","children":[["$","div",null,{"className":"mb-8 flex flex-wrap items-center gap-3 text-xs text-charcoal/40","children":[["$","span",null,{"className":"rounded-full bg-warm/10 px-3 py-1 font-medium text-warm-dark","children":"Culture"}],["$","span",null,{"children":"2026-03-10"}],["$","span",null,{"children":["5 min"," read"]}]]}],["$","h1",null,{"className":"font-serif text-4xl leading-tight tracking-tight text-charcoal md:text-5xl","children":"7 Italian Food Mistakes Every Tourist Makes"}],["$","div",null,{"className":"mt-10 prose-volta","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mgANmPVxDEOAABLgPbZzt"}
+4:["$","div",null,{"className":"mt-16 rounded-2xl border border-warm/20 bg-warm/5 p-8 text-center","children":[["$","h3",null,{"className":"font-serif text-xl text-charcoal","children":"Ready to experience Italy?"}],["$","p",null,{"className":"mt-2 text-sm text-charcoal/60","children":"Get a free personalized itinerary in 24 hours."}],["$","$L2",null,{"href":"/#contact","className":"mt-4 inline-flex rounded-full bg-charcoal px-8 py-3 text-sm font-medium text-cream hover:bg-navy transition-colors","children":"Get Your Free Itinerary"}]]}]
+5:["$","footer",null,{"className":"border-t border-warm/15 bg-charcoal py-12 text-cream","children":["$","div",null,{"className":"mx-auto flex max-w-7xl items-center justify-between px-6","children":[["$","p",null,{"className":"font-serif text-xl","children":"Volta"}],["$","p",null,{"className":"text-xs text-cream/30","children":["© ",2026," Volta Travel"]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
